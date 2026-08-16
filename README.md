@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Hariharan
 
-🎓 **B.Tech Information Technology Graduate | 2025**
+🎓 **B.Tech Information Technology Graduate **
 
 💻 **Python Full Stack Developer | AI/ML Enthusiast | Blockchain Developer**
 
@@ -13,19 +13,17 @@ I'm a passionate developer interested in building **modern web applications, AI-
 * 💻 I work with **Python, Django, Flask, React.js, JavaScript, HTML, CSS, and Tailwind CSS**
 * ⛓️ I’m interested in **Blockchain, Smart Contracts, and Web3**
 * 👯 I’m open to **collaborating on Full Stack, AI/ML, and Blockchain projects**
-* 💬 Ask me about **Python, Django, React, AI/ML, Blockchain, and Web Development**
 * 📫 Looking for opportunities as a **Python Developer, Full Stack Developer, AI/ML Engineer, or Software Developer**
 * ⚡ Fun fact: **I enjoy learning new technologies by building real-world projects.**
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, Java, HTML, CSS
-**Frontend:** React.js, Tailwind CSS
-**Backend:** Django, Flask, Node.js
-**Databases:** MySQL, MongoDB, PostgreSQL
-**AI/ML:** TensorFlow, CNN, OpenCV, NumPy, Machine Learning
-**Blockchain:** Blockchain, Smart Contracts, Web3
-**Tools:** Git, GitHub, VS Code
+* Languages: Python
+* Frontend: HTML, CSS, JavaScript
+* Framework: ReactJs, Django
+* Databases: Oracel SQL, MongoDB, PostgreSQL
+* Blockchain: Blockchain, Smart Contracts, Web3
+* Tools: Git, GitHub, Postman, VS Code
 
 ### 🎯 Career Goal
 
