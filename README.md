@@ -16,13 +16,6 @@ I'm a passionate developer interested in building **modern web applications, AI-
 * 📫 Looking for opportunities as a **Python Developer, Full Stack Developer, AI/ML Engineer, or Software Developer**
 * ⚡ Fun fact: **I enjoy learning new technologies by building real-world projects.**
 
-### 🛠️ Tech Stack
-
-* Languages: Python
-* Frontend: HTML, CSS, JavaScript
-* Framework: ReactJs, Django
-* Databases: Oracel SQL, MongoDB, PostgreSQL
-* Blockchain: Blockchain, Smart Contracts,
 
 ### 🎯 Career Goal
 
